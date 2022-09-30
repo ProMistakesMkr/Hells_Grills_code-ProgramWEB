@@ -1,493 +1,497 @@
 .macbook-pro-16-1 {
-    position: relative;
-    width: 1728px;
-    height: 3605px;
-    padding: 0px;
-    background: rgba(255, 238, 221, 1);
-    overflow: hidden;
-  }
-  .footer {
-    position: absolute;
-    width: 1728px;
-    height: 331px;
-    top: 3274px;
-    left: 0px;
-  }
-  .info {
-    position: absolute;
-    width: 1487px;
-    height: 548px;
-    top: 2491px;
-    left: 87px;
-  }
-  .gallery {
-    position: absolute;
-    width: 1554px;
-    height: 662px;
-    top: 1630px;
-    left: 87px;
-  }
-  .mid-section {
-    position: absolute;
-    width: 893px;
-    height: 402px;
-    top: 1058px;
-    left: 417px;
-  }
-  .section-1 {
-    position: absolute;
-    width: 1555px;
-    height: 623px;
-    top: 264px;
-    left: 74px;
-  }
-  .header {
-    position: absolute;
-    width: 1728px;
-    height: 154px;
-    top: 0px;
-    left: 0px;
-  }
-  .rectangle-7 {
-    position: absolute;
-    width: 1728px;
-    height: 331px;
-    top: 0px;
-    left: 0px;
-    background: rgba(237, 42, 42, 1);
-  }
-  .hells-grills-tm {
-    position: absolute;
-    height: 61px;
-    top: 33px;
-    left: 674px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 700;
-    font-size: 50px;
-    color: rgba(255, 255, 255, 1);
-  }
-  .programacion-web-2022-2 {
-    position: absolute;
-    height: 30px;
-    top: 114px;
-    left: 697px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 400;
-    font-size: 25px;
-    color: rgba(255, 255, 255, 1);
-  }
-  .icons {
-    position: absolute;
-    width: 217px;
-    height: 90px;
-    top: 206px;
-    left: 755px;
-  }
-  .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-dui-sit-dignissim-et-leo-facilisis-ut-nisl-eu-faucibus-fusce-eu-arcu-dis-ac-odio-proin-tellus-eget-tristique-vitae-at-non-velit-cras-est-adipiscing-mattis-cum-amet-nunc-molestie-elementum-feugiat-pellentesque-magna-mauris-curabitur-in-euismod-cras-vulputate-urna-tellus-lacus-suscipit-molestie-laoreet-rhoncus-sem-quis-ut-neque-tincidunt-arcu-egestas-interdum-feugiat-mattis-lorem-penatibus-morbi-risus-aenean-viverra-semper-eu-sed {
-    position: absolute;
-    top: 193px;
-    left: 683px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 400;
-    font-size: 24px;
-    color: rgba(0, 0, 0, 1);
-  }
-  .come-meet-us {
-    position: absolute;
-    height: 49px;
-    top: 76px;
-    left: 683px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 700;
-    font-size: 40px;
-    color: rgba(0, 0, 0, 1);
-  }
-  .mask-group {
-    position: absolute;
-    width: 548px;
-    height: 548px;
-    top: 0px;
-    left: 0px;
-  }
-  .arrows {
-    position: absolute;
-    width: 1517px;
-    height: 59px;
-    top: 301px;
-    left: 21px;
-  }
-  .mask-group-1 {
-    position: absolute;
-    width: 1554px;
-    height: 662px;
-    top: 0px;
-    left: 0px;
-  }
-  .logo2 {
-    position: absolute;
-    width: 367px;
-    height: 73px;
-    top: 0px;
-    left: 263px;
-  }
-  .menu-info {
-    position: absolute;
-    width: 602px;
-    height: 29px;
-    top: 107px;
-    left: 126px;
-  }
-  .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-dui-sit-dignissim-et-leo-facilisis-ut-nisl-eu-faucibus-fusce-eu-arcu-dis-ac-odio-proin-tellus-eget-tristique-vitae-at-non-velit-cras-est-adipiscing-mattis-cum-amet-nunc-molestie-elementum-feugiat-pellentesque-magna-mauris-curabitur-in-euismod-cras-vulputate-urna-tellus-lacus-suscipit-molestie-laoreet-rhoncus-sem-quis-ut-neque-tincidunt-arcu-egestas-interdum-feugiat-mattis-lorem-penatibus-morbi-risus-aenean-viverra-semper-eu-sed-1 {
-    position: absolute;
-    top: 199px;
-    left: 0px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 400;
-    font-size: 24px;
-    color: rgba(0, 0, 0, 1);
-    text-align: center;
-  }
-  .wardrobe {
-    position: absolute;
-    width: 763px;
-    height: 289px;
-    top: 0px;
-    left: 791px;
-  }
-  .our-grills {
-    position: absolute;
-    width: 763px;
-    height: 289px;
-    top: 0px;
-    left: 0px;
-  }
-  .accessories {
-    position: absolute;
-    width: 763px;
-    height: 306px;
-    top: 317px;
-    left: 0px;
-  }
-  .premium-meat {
-    position: absolute;
-    width: 764px;
-    height: 306px;
-    top: 317px;
-    left: 791px;
-  }
-  .rectangle-1 {
-    position: absolute;
-    width: 1728px;
-    height: 154px;
-    top: 0px;
-    left: 0px;
-    background: rgba(237, 42, 42, 1);
-  }
-  .logo {
-    position: absolute;
-    width: 367px;
-    height: 73px;
-    top: 41px;
-    left: 680px;
-  }
-  .links {
-    position: absolute;
-    width: 190px;
-    height: 68px;
-    top: 44px;
-    left: 1472px;
-  }
-  .instagram {
-    position: absolute;
-    width: 90px;
-    height: 90px;
-    top: 0px;
-    left: 0px;
-    background: url("images/Instagram") 50% 50% / contain no-repeat;
-  }
-  .facebook {
-    position: absolute;
-    width: 90px;
-    height: 90px;
-    top: 0px;
-    left: 127px;
-    background: url("images/Facebook") 50% 50% / contain no-repeat;
-  }
-  .ellipse-1 {
-    position: absolute;
-    width: 548px;
-    height: 548px;
-    top: 0px;
-    left: 0px;
-    background: rgba(217, 217, 217, 1);
-    border-radius: 100%;
-  }
-  .pexels-photo-by-lukas {
-    position: absolute;
-    width: 833.1px;
-    height: 551.8px;
-    top: -2px;
-    left: -56px;
-    background: url("images/Pexels Photo by Lukas") 50% 50% / cover no-repeat;
-  }
-  . {
-    position: absolute;
-    height: 59px;
-    top: 0px;
-    left: 0px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 900;
-    font-size: 48px;
-    color: rgba(255, 255, 255, 1);
-  }
-  .rectangle-6 {
-    position: absolute;
-    width: 1554px;
-    height: 662px;
-    top: 0px;
-    left: 0px;
-    background: rgba(217, 217, 217, 1);
-  }
-  .pexels-photo-by-luis-quintero {
-    position: absolute;
-    width: 1562px;
-    height: 1042px;
-    top: -138px;
-    left: -4px;
-    background: url("images/Pexels Photo by Luis Quintero") 50% 50% / cover
-      no-repeat;
-  }
-  .hells-grills {
-    position: absolute;
-    height: 61px;
-    top: 6px;
-    left: 80px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 700;
-    font-size: 50px;
-    color: rgba(0, 0, 0, 1);
-  }
-  .frame {
-    position: absolute;
-    width: 65px;
-    height: 73px;
-    top: 0px;
-    left: 0px;
-    padding: 0px;
-    overflow: hidden;
-  }
-  .about-us {
-    position: absolute;
-    height: 29px;
-    top: 0px;
-    left: 265px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 400;
-    font-size: 24px;
-    color: rgba(0, 0, 0, 1);
-  }
-  .contact-us {
-    position: absolute;
-    height: 29px;
-    top: 0px;
-    left: 0px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 400;
-    font-size: 24px;
-    color: rgba(0, 0, 0, 1);
-  }
-  .why-us {
-    position: absolute;
-    height: 29px;
-    top: 0px;
-    left: 512px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 400;
-    font-size: 24px;
-    color: rgba(0, 0, 0, 1);
-  }
-  .mask-group-2 {
-    position: absolute;
-    width: 763px;
-    height: 289px;
-    top: 0px;
-    left: 0px;
-  }
-  .wardrobe-1 {
-    position: absolute;
-    width: 329px;
-    height: 72px;
-    top: 217px;
-    left: 434px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 700;
-    font-size: 50px;
-    color: rgba(255, 255, 255, 1);
-  }
-  .mask-group-3 {
-    position: absolute;
-    width: 763px;
-    height: 289px;
-    top: 0px;
-    left: 0px;
-  }
-  .our-grills-1 {
-    position: absolute;
-    width: 329px;
-    height: 72px;
-    top: 217px;
-    left: 434px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 700;
-    font-size: 50px;
-    color: rgba(255, 255, 255, 1);
-  }
-  .mask-group-4 {
-    position: absolute;
-    width: 763px;
-    height: 306px;
-    top: 0px;
-    left: 0px;
-  }
-  .accessories-1 {
-    position: absolute;
-    width: 329px;
-    height: 72px;
-    top: 234px;
-    left: 434px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 700;
-    font-size: 50px;
-    color: rgba(255, 255, 255, 1);
-  }
-  .mask-group-5 {
-    position: absolute;
-    width: 764px;
-    height: 306px;
-    top: 0px;
-    left: 0px;
-  }
-  .premium-meat-1 {
-    position: absolute;
-    height: 61px;
-    top: 245px;
-    left: 374px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 700;
-    font-size: 50px;
-    color: rgba(255, 255, 255, 1);
-  }
-  .hells-grills-1 {
-    position: absolute;
-    height: 61px;
-    top: 6px;
-    left: 80px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 700;
-    font-size: 50px;
-    color: rgba(255, 255, 255, 1);
-  }
-  .frame-1 {
-    position: absolute;
-    width: 65px;
-    height: 73px;
-    top: 0px;
-    left: 0px;
-    padding: 0px;
-    overflow: hidden;
-  }
-  .shop {
-    position: absolute;
-    width: 68px;
-    height: 68px;
-    top: 0px;
-    left: 0px;
-    background: url("images/Shop") 50% 50% / contain no-repeat;
-  }
-  .shopping-cart {
-    position: absolute;
-    width: 68px;
-    height: 68px;
-    top: 0px;
-    left: 122px;
-    background: url("images/Shopping Cart") 50% 50% / contain no-repeat;
-  }
-  .vector {
-    position: absolute;
-    width: 65px;
-    height: 73px;
-    top: 1px;
-    left: 0px;
-  }
-  .rectangle-3 {
-    position: absolute;
-    width: 763px;
-    height: 289px;
-    top: 0px;
-    left: 0px;
-    background: rgba(217, 217, 217, 1);
-  }
-  .unsplashulm5dhtham {
-    position: absolute;
-    width: 786px;
-    height: 525px;
-    top: -128px;
-    left: -22px;
-    background: url("images/unsplash:ul_m5dHThaM") 50% 50% / cover no-repeat;
-  }
-  .rectangle-2 {
-    position: absolute;
-    width: 763px;
-    height: 289px;
-    top: 0px;
-    left: 0px;
-    background: rgba(217, 217, 217, 1);
-  }
-  .unsplashd99y38na5xo {
-    position: absolute;
-    width: 812px;
-    height: 542px;
-    top: -225px;
-    left: -25px;
-    background: url("images/unsplash:D99y38Na5Xo") 50% 50% / cover no-repeat;
-  }
-  .rectangle-4 {
-    position: absolute;
-    width: 763px;
-    height: 306px;
-    top: 0px;
-    left: 0px;
-    background: rgba(217, 217, 217, 1);
-  }
-  .unsplashontgvhxgrja {
-    position: absolute;
-    width: 763px;
-    height: 509px;
-    top: -102px;
-    left: 0px;
-    background: url("images/unsplash:onTGVHxgRJA") 50% 50% / cover no-repeat;
-  }
-  .rectangle-5 {
-    position: absolute;
-    width: 764px;
-    height: 306px;
-    top: 0px;
-    left: 0px;
-    background: rgba(217, 217, 217, 1);
-  }
-  .unsplashulm5dhtham-1 {
-    position: absolute;
-    width: 763px;
-    height: 509px;
-    top: -122px;
-    left: 0px;
-    background: url("images/unsplash:ul_m5dHThaM") 50% 50% / cover no-repeat;
-  }
-  .vector-1 {
-    position: absolute;
-    width: 65px;
-    height: 73px;
-    top: 1px;
-    left: 0px;
-  }
-  
+  position: relative;
+  width: 1728px;
+  height: 3605px;
+  padding: 0px;
+  background: rgba(255, 238, 221, 1);
+  overflow: hidden;
+}
+.footer {
+  position: absolute;
+  width: 1728px;
+  height: 331px;
+  top: 3274px;
+  left: 0px;
+}
+.info {
+  position: absolute;
+  width: 1487px;
+  height: 548px;
+  top: 2491px;
+  left: 87px;
+}
+.gallery {
+  position: relative;
+  width: 1554px;
+  height: 662px;
+  top: 1630px;
+  left: 87px;
+}
+.mid-section {
+  position: relative;
+  width: 893px;
+  height: 402px;
+  top: 1058px;
+  left: 417px;
+}
+.section-1 {
+  position: relative;
+  width: 1555px;
+  height: 623px;
+  top: 264px;
+  left: 74px;
+}
+.container-fluid {
+  position: relative;
+  width: 1728px;
+  height: 154px;
+  top: 0px;
+  left: 0px;
+}
+.rectangle-7 {
+  position: relative;
+  width: 1728px;
+  height: 331px;
+  top: 0px;
+  left: 0px;
+  background: rgba(237, 42, 42, 1);
+}
+.hells-grills-tm {
+  position: absolute;
+  height: 61px;
+  top: 33px;
+  left: 674px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  color: rgba(255, 255, 255, 1);
+}
+.programacion-web-2022-2 {
+  position: absolute;
+  height: 30px;
+  top: 114px;
+  left: 697px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  color: rgba(255, 255, 255, 1);
+}
+.icons {
+  position: absolute;
+  width: 217px;
+  height: 90px;
+  top: 206px;
+  left: 755px;
+}
+.parrafo2 {
+  position: absolute;
+  top: 193px;
+  left: 683px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 1);
+}
+.come-meet-us {
+  position: absolute;
+  height: 49px;
+  top: 76px;
+  left: 683px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  color: rgba(0, 0, 0, 1);
+}
+.mask-group {
+  position: absolute;
+  width: 548px;
+  height: 548px;
+  top: 0px;
+  left: 0px;
+}
+.arrows {
+  position: absolute;
+  width: 1517px;
+  height: 59px;
+  top: 301px;
+  left: 21px;
+}
+.mask-group-1 {
+  position: absolute;
+  width: 1554px;
+  height: 662px;
+  top: 0px;
+  left: 0px;
+}
+.logo2 {
+  position: absolute;
+  width: 367px;
+  height: 73px;
+  top: 0px;
+  left: 263px;
+}
+.menu-info {
+  position: absolute;
+  width: 602px;
+  height: 29px;
+  top: 107px;
+  left: 126px;
+}
+.parrafo {
+  position: absolute;
+  top: 199px;
+  left: 0px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 1);
+  text-align: center;
+}
+.wardrobe {
+  position: absolute;
+  width: 763px;
+  height: 289px;
+  top: 0px;
+  left: 791px;
+}
+.our-grills {
+  position: absolute;
+  width: 763px;
+  height: 289px;
+  top: 0px;
+  left: 0px;
+}
+.accessories {
+  position: absolute;
+  width: 763px;
+  height: 306px;
+  top: 317px;
+  left: 0px;
+}
+.premium-meat {
+  position: absolute;
+  width: 764px;
+  height: 306px;
+  top: 317px;
+  left: 791px;
+}
+.rectangle-1 {
+  position: absolute;
+  width: 1728px;
+  height: 154px;
+  top: 0px;
+  left: 0px;
+  background: rgba(237, 42, 42, 1);
+}
+.logo {
+  position: absolute;
+  width: 367px;
+  height: 73px;
+  top: 41px;
+  left: 680px;
+}
+.links {
+  position: absolute;
+  width: 190px;
+  height: 68px;
+  top: 44px;
+  left: 1472px;
+}
+.instagram {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  top: 0px;
+  left: 0px;
+  background: url("src/Instagram.png") 50% 50% / contain no-repeat;
+}
+.facebook {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  top: 0px;
+  left: 127px;
+  background: url("src/Facebook.png") 50% 50% / contain no-repeat;
+}
+.ellipse-1 {
+  position: absolute;
+  width: 548px;
+  height: 548px;
+  top: 0px;
+  left: 0px;
+  background: rgba(217, 217, 217, 1);
+  border-radius: 100%;
+}
+.picture_circle{
+  position: absolute;
+  width: 616px;
+  height: 616px;
+  top: -2px;
+  left: -56px;
+  background: url("src/picture_circle.png") 50% 50% / cover no-repeat;
+}
+.carouselExampleControls{
+  position: relative;
+  width: 1720;
+  height: auto;
+}
+. {
+  position: absolute;
+  height: 59px;
+  top: 0px;
+  left: 0px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  font-size: 48px;
+  color: rgba(255, 255, 255, 1);
+}
+.rectangle-6 {
+  position: absolute;
+  width: 1554px;
+  height: 662px;
+  top: 0px;
+  left: 0px;
+  background: rgba(217, 217, 217, 1);
+}
+.pexels-photo-by-luis-quintero {
+  position: absolute;
+  width: 1562px;
+  height: 1042px;
+  top: -138px;
+  left: -4px;
+  background: url("images/Pexels Photo by Luis Quintero") 50% 50% / cover
+    no-repeat;
+}
+.hells-grills {
+  position: absolute;
+  height: 61px;
+  top: 6px;
+  left: 80px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  color: rgba(0, 0, 0, 1);
+}
+.frame {
+  position: absolute;
+  width: 65px;
+  height: 73px;
+  top: 0px;
+  left: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+.about-us {
+  position: absolute;
+  height: 29px;
+  top: 0px;
+  left: 265px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 1);
+}
+.contact-us {
+  position: absolute;
+  height: 29px;
+  top: 0px;
+  left: 0px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 1);
+}
+.why-us {
+  position: absolute;
+  height: 29px;
+  top: 0px;
+  left: 512px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 1);
+}
+.mask-group-2 {
+  position: absolute;
+  width: 763px;
+  height: 289px;
+  top: 0px;
+  left: 0px;
+}
+.wardrobe-1 {
+  position: absolute;
+  width: 329px;
+  height: 72px;
+  top: 217px;
+  left: 434px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  color: rgba(255, 255, 255, 1);
+}
+.mask-group-3 {
+  position: absolute;
+  width: 763px;
+  height: 289px;
+  top: 0px;
+  left: 0px;
+}
+.our-grills-1 {
+  position: absolute;
+  width: 329px;
+  height: 72px;
+  top: 217px;
+  left: 434px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  color: rgba(255, 255, 255, 1);
+}
+.mask-group-4 {
+  position: absolute;
+  width: 763px;
+  height: 306px;
+  top: 0px;
+  left: 0px;
+}
+.accessories-1 {
+  position: absolute;
+  width: 329px;
+  height: 72px;
+  top: 234px;
+  left: 434px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  color: rgba(255, 255, 255, 1);
+}
+.mask-group-5 {
+  position: absolute;
+  width: 764px;
+  height: 306px;
+  top: 0px;
+  left: 0px;
+}
+.premium-meat-1 {
+  position: absolute;
+  height: 61px;
+  top: 245px;
+  left: 374px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  color: rgba(255, 255, 255, 1);
+}
+.hells-grills-1 {
+  position: absolute;
+  height: 61px;
+  top: 6px;
+  left: 80px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  color: rgba(255, 255, 255, 1);
+}
+.frame-1 {
+  position: absolute;
+  width: 65px;
+  height: 73px;
+  top: 0px;
+  left: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+.shop {
+  position: absolute;
+  width: 68px;
+  height: 68px;
+  top: 0px;
+  left: 0px;
+  background: url("images/Shop") 50% 50% / contain no-repeat;
+}
+.shopping-cart {
+  position: absolute;
+  width: 68px;
+  height: 68px;
+  top: 0px;
+  left: 122px;
+  background: url("images/Shopping Cart") 50% 50% / contain no-repeat;
+}
+.vector {
+  position: absolute;
+  width: 65px;
+  height: 73px;
+  top: 1px;
+  left: 0px;
+}
+.rectangle-3 {
+  position: absolute;
+  width: 763px;
+  height: 289px;
+  top: 0px;
+  left: 0px;
+  background: rgba(217, 217, 217, 1);
+}
+.unsplashulm5dhtham {
+  position: absolute;
+  width: 786px;
+  height: 525px;
+  top: -128px;
+  left: -22px;
+  background: url("images/unsplash:ul_m5dHThaM") 50% 50% / cover no-repeat;
+}
+.rectangle-2 {
+  position: absolute;
+  width: 763px;
+  height: 289px;
+  top: 0px;
+  left: 0px;
+  background: rgba(217, 217, 217, 1);
+}
+.unsplashd99y38na5xo {
+  position: absolute;
+  width: 812px;
+  height: 542px;
+  top: -225px;
+  left: -25px;
+  background: url("images/unsplash:D99y38Na5Xo") 50% 50% / cover no-repeat;
+}
+.rectangle-4 {
+  position: absolute;
+  width: 763px;
+  height: 306px;
+  top: 0px;
+  left: 0px;
+  background: rgba(217, 217, 217, 1);
+}
+.unsplashontgvhxgrja {
+  position: absolute;
+  width: 763px;
+  height: 509px;
+  top: -102px;
+  left: 0px;
+  background: url("images/unsplash:onTGVHxgRJA") 50% 50% / cover no-repeat;
+}
+.rectangle-5 {
+  position: absolute;
+  width: 764px;
+  height: 306px;
+  top: 0px;
+  left: 0px;
+  background: rgba(217, 217, 217, 1);
+}
+.unsplashulm5dhtham-1 {
+  position: absolute;
+  width: 763px;
+  height: 509px;
+  top: -122px;
+  left: 0px;
+  background: url("images/unsplash:ul_m5dHThaM") 50% 50% / cover no-repeat;
+}
+.vector-1 {
+  position: absolute;
+  width: 65px;
+  height: 73px;
+  top: 1px;
+  left: 0px;
+}

@@ -12,11 +12,13 @@
 </head>
 
 <body>
-    <header class="header">
+
+
+    <header class="container-fluid">
         <div class="rectangle-1"></div>
         <div class="logo">
             <div class="hells-grills-1">Hell’s Grills</div>
-            <div class="frame-1"><img class="vector-1" src="images/Vector.svg" /></div>
+            <div class="frame-1"><img class="vector-1" src="src/Logo.png" /></div>
         </div>
         <div class="links">
             <div class="shop"></div>
@@ -66,9 +68,7 @@
             <div class="contact-us">Contact us</div>
             <div class="why-us">Why us</div>
         </div>
-        <div class="
-            lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-dui-sit-dignissim-et-leo-facilisis-ut-nisl-eu-faucibus-fusce-eu-arcu-dis-ac-odio-proin-tellus-eget-tristique-vitae-at-non-velit-cras-est-adipiscing-mattis-cum-amet-nunc-molestie-elementum-feugiat-pellentesque-magna-mauris-curabitur-in-euismod-cras-vulputate-urna-tellus-lacus-suscipit-molestie-laoreet-rhoncus-sem-quis-ut-neque-tincidunt-arcu-egestas-interdum-feugiat-mattis-lorem-penatibus-morbi-risus-aenean-viverra-semper-eu-sed-1
-          ">
+        <div class="parrafo">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dui sit dignissim
             et leo, facilisis. Ut nisl, eu faucibus fusce eu arcu dis ac odio. Proin
             tellus, eget tristique vitae at non. Velit cras est adipiscing mattis cum.
@@ -79,35 +79,50 @@
         </div>
     </section>
 
-    <section class="gallery">
-        <div class="arrows">
-          <div class="">></div>
-          <div class=""><</div>
+
+    <!--Galeria de fotos-->
+
+    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="Car1.png" class="d-block w-100" alt="Grills">
+            </div>
+            <div class="carousel-item">
+                <img src="Car2.png" class="d-block w-100" alt="Meat">
+            </div>
+            <div class="carousel-item">
+                <img src="Car3.png" class="d-block w-100" alt="Coal">
+            </div>
         </div>
-        <div class="mask-group-1">
-          <div class="rectangle-6"></div>
-          <div class="pexels-photo-by-luis-quintero"></div>
-        </div>
-    </section>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
+            data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls"
+            data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+    <!--Fin galeria de fotos-->
+
 
     <section class="info">
-        <div
-          class="
-            lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-dui-sit-dignissim-et-leo-facilisis-ut-nisl-eu-faucibus-fusce-eu-arcu-dis-ac-odio-proin-tellus-eget-tristique-vitae-at-non-velit-cras-est-adipiscing-mattis-cum-amet-nunc-molestie-elementum-feugiat-pellentesque-magna-mauris-curabitur-in-euismod-cras-vulputate-urna-tellus-lacus-suscipit-molestie-laoreet-rhoncus-sem-quis-ut-neque-tincidunt-arcu-egestas-interdum-feugiat-mattis-lorem-penatibus-morbi-risus-aenean-viverra-semper-eu-sed
-          "
-        >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dui sit dignissim
-          et leo, facilisis. Ut nisl, eu faucibus fusce eu arcu dis ac odio. Proin
-          tellus, eget tristique vitae at non. Velit cras est adipiscing mattis cum.
-          Amet nunc molestie elementum feugiat pellentesque magna mauris, curabitur
-          in. Euismod cras vulputate urna, tellus lacus, suscipit molestie laoreet
-          rhoncus. Sem quis ut neque tincidunt arcu egestas. Interdum feugiat mattis
-          lorem penatibus. Morbi risus aenean viverra semper eu sed.
+        <div class="
+parrafo2          ">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dui sit dignissim
+            et leo, facilisis. Ut nisl, eu faucibus fusce eu arcu dis ac odio. Proin
+            tellus, eget tristique vitae at non. Velit cras est adipiscing mattis cum.
+            Amet nunc molestie elementum feugiat pellentesque magna mauris, curabitur
+            in. Euismod cras vulputate urna, tellus lacus, suscipit molestie laoreet
+            rhoncus. Sem quis ut neque tincidunt arcu egestas. Interdum feugiat mattis
+            lorem penatibus. Morbi risus aenean viverra semper eu sed.
         </div>
         <div class="come-meet-us">Come meet us.</div>
         <div class="mask-group">
-          <div class="ellipse-1"></div>
-          <div class="pexels-photo-by-lukas"></div>
+            <div class="ellipse-1"></div>
+            <div class="picture_circle"></div>
         </div>
     </section>
 
@@ -116,13 +131,13 @@
         <div class="hells-grills-tm">Hell’s Grills TM</div>
         <div class="programacion-web-2022-2">Programacion Web 2022-2</div>
         <div class="icons">
-          <div class="instagram"></div>
-          <div class="facebook"></div>
+            <div class="instagram"></div>
+            <div class="facebook"></div>
         </div>
     </section>
-      
-      
-      
+
+
+
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
